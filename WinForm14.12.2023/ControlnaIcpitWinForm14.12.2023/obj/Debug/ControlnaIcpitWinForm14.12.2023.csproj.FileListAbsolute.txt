@@ -1,0 +1,12 @@
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\bin\Debug\ControlnaIcpitWinForm14.12.2023.exe.config
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\bin\Debug\ControlnaIcpitWinForm14.12.2023.exe
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\bin\Debug\ControlnaIcpitWinForm14.12.2023.pdb
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\obj\Debug\ControlnaIcpitWinForm14.12.2023.csproj.AssemblyReference.cache
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\obj\Debug\ControlnaIcpitWinForm14._12._2023.Form1.resources
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\obj\Debug\ControlnaIcpitWinForm14._12._2023.Properties.Resources.resources
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\obj\Debug\ControlnaIcpitWinForm14.12.2023.csproj.GenerateResource.cache
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\obj\Debug\ControlnaIcpitWinForm14.12.2023.csproj.CoreCompileInputs.cache
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\obj\Debug\ControlnaIcpitWinForm14.12.2023.exe
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\obj\Debug\ControlnaIcpitWinForm14.12.2023.pdb
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\obj\Debug\ControlnaIcpitWinForm14._12._2023.Form2AddUser.resources
+D:\avisualStudio\ControlnaIcpitWinForm14.12.2023\ControlnaIcpitWinForm14.12.2023\obj\Debug\ControlnaIcpitWinForm14._12._2023.Form3coutcs.resources
